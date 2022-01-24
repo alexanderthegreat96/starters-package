@@ -1,4 +1,5 @@
 <?php
+namespace dthtoolkit;
 class Requests
 {
     /**
